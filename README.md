@@ -9,7 +9,9 @@ I'm a passionate web developer with experience in front-end, back-end, and datab
 🛠️ My Skills
 
 Front-end: HTML, CSS, JavaScript, Blazor
+
 Back-end: C#, ASP.NET
+
 Database: SQL Server
 
 🚀 My Projects
