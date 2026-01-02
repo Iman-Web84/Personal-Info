@@ -10,7 +10,7 @@ I'm a passionate web developer with experience in front-end, back-end, and datab
 
 Front-end: HTML, CSS, JavaScript, Blazor
 Back-end: C#, ASP.NET
-Database: SQL Server, MySQL
+Database: SQL Server
 
 🚀 My Projects
 
@@ -19,8 +19,7 @@ User Management System - A system for managing user accounts and access levels.
 
 📫 Contact Me
 
-LinkedIn
-Email
+Email : imanbigdeli45@gmail.com
 
 Thank you for visiting my profile! 😊
 
@@ -39,8 +38,7 @@ Thank you for visiting my profile! 😊
 
 بک‌اند: C#, ASP.NET
 
-پایگاه داده: SQL Server, MySQL
-
+پایگاه داده: SQL Server
 🚀 پروژه‌های من
 
 پروژه فروشگاه آنلاین - یک پلتفرم تجارت الکترونیک کاملاً کاربردی.
@@ -49,9 +47,7 @@ Thank you for visiting my profile! 😊
 
 📫 راه‌های ارتباطی
 
-لینکدین
-
-ایمیل
+ایمیل :  imanbigdeli45@gmail.com
 
 از بازدید از پروفایل من متشکرم! 😊
 
